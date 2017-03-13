@@ -17,7 +17,7 @@
  기본적으로 외부의 소스를 분석하여 출력하므로 외부 소스 사이트가 변경되거나 삭제되면 문제가 발생할 수 있다.
 
 2. 설치전 확인 사항
- BeautifulSoup(b4), lxml 모듈이 추가로 필요하다.
+ BeautifulSoup(bs4), lxml 모듈이 추가로 필요하다.
  설치 OS별로 모듈을 설치하기 위한 사전 설치 방법이 다를 수도 있으므로 검색해서 설치하도록 한다.
  synology의 경우 파이썬 모듈을 설치하면  easy_install beautifulsoup, easy_install lxml 이다
 
