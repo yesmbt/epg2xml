@@ -558,4 +558,3 @@ elif args.socket:
         sys.exit()
 
 getEpg()
-
